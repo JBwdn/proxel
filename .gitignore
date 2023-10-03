@@ -1,0 +1,5 @@
+*.egg-info/
+recursive-exclude * *.pyc
+recursive-exclude * *.pyo
+recursive-exclude * *.pyd
+__pycache__/
