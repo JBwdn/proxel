@@ -3,3 +3,4 @@ recursive-exclude * *.pyc
 recursive-exclude * *.pyo
 recursive-exclude * *.pyd
 __pycache__/
+.test_data/
